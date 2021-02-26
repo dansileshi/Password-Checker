@@ -1,2 +1,2 @@
 # Password-Checker for 
-### Check whether your passowrd has been compromised. 
+### Check whether your account has been has been compromised. 
